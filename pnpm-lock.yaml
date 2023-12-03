@@ -152,8 +152,8 @@ importers:
         specifier: ^7.2.5
         version: 7.2.5
       '@types/babel__core':
-        specifier: ^7.20.4
-        version: 7.20.4
+        specifier: ^7.20.5
+        version: 7.20.5
       '@types/react':
         specifier: ^18.2.41
         version: 18.2.41
@@ -4292,8 +4292,8 @@ packages:
       update-check: 1.5.4
     dev: true
 
-  /@types/babel__core@7.20.4:
-    resolution: {integrity: sha512-mLnSC22IC4vcWiuObSRjrLd9XcBTGf59vUSoq2jkQDJ/QQ8PMI9rSuzE+aEV8karUMbskw07bKYoUJCKTUaygg==}
+  /@types/babel__core@7.20.5:
+    resolution: {integrity: sha512-qoQprZvz5wQFJwMDqeseRXWv3rqMvhgpbXFfVyWhbx9X47POIA6i/+dXefEmZKoAgOaTdaIgNSMqMIU61yRyzA==}
     dependencies:
       '@babel/parser': 7.23.0
       '@babel/types': 7.23.0
